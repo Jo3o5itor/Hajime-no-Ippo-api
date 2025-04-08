@@ -2,7 +2,6 @@
 
 Este é um projeto frontend que consome a **API Hajime no Ippo**, exibindo informações dos lutadores como nome, país, imagem e cartel de lutas.
 
----
 
 ## ✨ Funcionalidades
 
@@ -10,7 +9,7 @@ Este é um projeto frontend que consome a **API Hajime no Ippo**, exibindo infor
 - ✅ Navegação fluida entre os cards
 - ✅ Interface simples e informativa
 
----
+
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -19,7 +18,6 @@ Este é um projeto frontend que consome a **API Hajime no Ippo**, exibindo infor
 - CSS
 - [Hajime no Ippo API](https://hajime-no-ippo-api.onrender.com/ts/api/v1/boxers)
 
----
 
 ## 🚀 Como Executar
 
@@ -46,7 +44,6 @@ Este é um projeto frontend que consome a **API Hajime no Ippo**, exibindo infor
 5. **Abra no navegador:**
    [http://localhost:3000](http://localhost:3000)
 
----
 
 ## 📂 Estrutura de Pastas
 
@@ -73,11 +70,9 @@ src/
 
 Para acessar os detalhes de um lutador individualmente:
 
-```
-[https://hajime-no-ippo-api.onrender.com/ts/api/v1/boxers
-```
 
----
+https://hajime-no-ippo-api.onrender.com/ts/api/v1/boxers
+
 
 ## 👨‍💻 Autor
 Feito por [João Vitor]
