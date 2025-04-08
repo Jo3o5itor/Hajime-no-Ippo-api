@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color: #1a1a1a;
+  color: white;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.boxeador-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #2a2a2a;
+  margin: 1rem auto;
+  border-radius: 12px;
+  padding: 1rem;
+  width: 80%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  transition: transform 0.2s ease;
+}
+
+.boxeador-card:hover {
+  transform: scale(1.02);
+}
+
+.boxeador-image {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 1.5rem;
+  object-fit: cover;
+}
+
+.boxeador-info {
+  text-align: left;
+}
