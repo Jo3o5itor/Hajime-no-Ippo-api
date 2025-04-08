@@ -15,6 +15,14 @@ O usuário pode navegar entre as páginas, visualizar detalhes dos personagens e
 
 A API é consumida utilizando fetch ou axios para realizar chamadas HTTP (GET) e renderizar os dados na tela.
 
+📂 Estrutura
+src/
+├── App.js
+├── components/
+├── BoxeadorList 
+├── services/
+└── api.js
+
 Link da API utilizada
 A API utilizada neste projeto pode ser acessada em:
 
