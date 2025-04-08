@@ -57,14 +57,12 @@ src/
 └── App.css              # Estilos globais
 ```
 
----
 
 ## 📌 Pré-requisitos
 
 - Node.js versão **16 ou superior**
 - Navegador atualizado (recomendado: Chrome, Firefox)
 
----
 
 ## 🔗 Endpoint da API
 
